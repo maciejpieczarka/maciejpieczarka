@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **[PhP Chat APP](https://github.com/maciejpieczarka/php-chat-app)**
 
-- 🌱 I’m currently learning **Nodejs, php and Sass**
+- 🌱 I’m currently learning **React, php and Sass**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://maciejpieczarka.tech)**
+- 👨‍💻 All of my projects are available at **[My Portfolio - Coming Soon](https://maciejpieczarka.tech)**
 
 <!-- - 📫 How to reach me **** -->
 
