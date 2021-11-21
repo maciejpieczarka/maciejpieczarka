@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[PhP Chat APP](https://github.com/maciejpieczarka/php-chat-app)**
+- 🔭 I’m currently working on **[Color generator website](https://github.com/maciejpieczarka/color-generator)**
 
 - 🌱 I’m currently learning **React, php and Sass**
 
