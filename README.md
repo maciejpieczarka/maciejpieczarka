@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio - Coming Soon](https://maciejpieczarka.tech)**
+- 👨‍💻 All of my projects are available at **[My Portfolio - Coming Soon](https://maciejpieczarka.github.io/)**
 
 - ⚡ Fun fact **I can somehow play the guitar**
 
