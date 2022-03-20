@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Color generator website](https://github.com/maciejpieczarka/color-generator)**
+- 🔭 I’m currently working on **[React Google-Search Clone](https://github.com/maciejpieczarka/react-google-search)**
 
-- 🌱 I’m currently learning **React, php and Sass**
+- 🌱 I’m currently learning **React, Node.js and Sass**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
