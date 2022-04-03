@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[React Google-Search Clone](https://github.com/maciejpieczarka/react-google-search)**
+- 🔭 I’m currently working on **[Next.js Google-Search Clone](https://github.com/maciejpieczarka/nextjs-google-search)**
 
 - 🌱 I’m currently learning **React, Node.js and Sass**
 
