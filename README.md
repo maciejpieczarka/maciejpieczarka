@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[React.js Color Generator](https://github.com/maciejpieczarka/reactjs-color-generator)**
+- 🔭 I’m currently working on **[React.js Markdown Generator](https://github.com/maciejpieczarka/reactjs-markdown-generator)**
 
-- 🌱 I’m currently learning **React, Node.js and Sass**
+- 🌱 I’m currently learning **React.js, TypeScript and Node.js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
