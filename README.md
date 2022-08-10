@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[React.js Markdown Generator](https://github.com/maciejpieczarka/reactjs-markdown-generator)**
+- 🔭 I’m currently working on **[My Portfolio Site](https://github.com/maciejpieczarka/maciejpieczarka.github.io)**
 
-- 🌱 I’m currently learning **React.js, TypeScript and Node.js**
+- 🌱 I’m currently learning **TypeScript, Node.js and Express.js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -20,14 +20,15 @@
 
 <p align="left"> 
     <a style="padding-right:8px;" href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a style="padding-right:8px;" href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
     <a style="padding-right:8px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a style="padding-right:16px;" href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/48/fa314a/php-logo.png"/></a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a style="padding-right:16px;" href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
     <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a style="padding-right:8px;" href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/fa314a/c-plus-plus-logo.png"/> </a>
 </p>
 
 <br/>
