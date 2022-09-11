@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[My Portfolio Site](https://github.com/maciejpieczarka/maciejpieczarka.github.io)**
+- 🔭 I’m currently working on **[My Portfolio Site](https://github.com/maciejpieczarka/nextjs-maciejpieczarka-homepage)**
 
 - 🌱 I’m currently learning **TypeScript, Node.js and Express.js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio - Coming Soon](https://maciejpieczarka.github.io/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio - Coming Soon](https://nextjs-maciejpieczarka-homepage.vercel.app/)**
 
 - ⚡ Fun fact **I can somehow play the guitar**
 
