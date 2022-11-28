@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio - Coming Soon](https://nextjs-maciejpieczarka-homepage.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://nextjs-maciejpieczarka-homepage.vercel.app/)**
 
 - ⚡ Fun fact **I can somehow play the guitar**
 
