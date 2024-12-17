@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[My Portfolio Site](https://github.com/maciejpieczarka/nextjs-maciejpieczarka-homepage)**
 
-- 🌱 I’m currently learning **TypeScript, Node.js and Express.js**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -34,9 +34,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/maciejpieczarka/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Maciej Pieczarka's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maciejpieczarka&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maciejpieczarka&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 
@@ -52,10 +50,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/maciejpieczarka/github-readme-activity-graph"><img alt="Maciej Pieczarka's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=maciejpieczarka&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
